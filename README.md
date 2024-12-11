@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kathy42xu
-- 🌱 I’m currently learning Statistical science at Duke
+- 🌱 I’m currently a master student of Statistical science at Duke
 - 💞️ I’m looking to collaborate on Deep learning
 
 <!---
