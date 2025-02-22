@@ -3,25 +3,21 @@ import os
 import pandas as pd
 import plotly.express as px
 
-# Set page configuration as the first Streamlit command
+
 st.set_page_config(page_title="Market Data Analysis Dashboard", layout="wide")
 
-# Title and description
 st.title("Market Data Analysis Dashboard")
 st.markdown("""
 This web app analyzes market data to deliver actionable insights.
 It helps businesses understand their market position, competition, and growth potential.
 """)
 
-# Sidebar: Task selection
 task_option = st.sidebar.selectbox(
     "Select Task:",
     ("Task 1: Customer Sentiment Analysis", "Task 2: Market Position Analysis / Suggested Actions")
 )
 
-# Function to get image path from the "www" folder
 def get_image(image_name):
-    # Ensure the image is in the 'www' folder relative to this script
     return os.path.join("www", image_name)
 
 if task_option == "Task 1: Customer Sentiment Analysis":
