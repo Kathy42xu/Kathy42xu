@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kathy42xu
 - 🌱 I’m currently a master student of Statistical science at Duke
-- 💞️ I’m looking to collaborate on Deep learning
 
 <!---
 Kathy42xu/Kathy42xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
